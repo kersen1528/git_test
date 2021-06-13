@@ -1,0 +1,1 @@
+This is Kaixin's first git project!
